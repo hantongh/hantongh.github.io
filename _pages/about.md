@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Lol.
+I am a first year M.S Capstone student at the [University of Washington Biostatistics Department](https://www.biostat.washington.edu/people/hantong-hu).
 
 
